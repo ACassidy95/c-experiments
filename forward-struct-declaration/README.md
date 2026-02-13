@@ -1,4 +1,4 @@
-# Forward Declarations
+# Forward Struct Declarations
 
 This experiment is to play around with the limits of forward declaration of structures, i.e. Declaring some struct in a header file without an implementation which is to be provided later.
 
